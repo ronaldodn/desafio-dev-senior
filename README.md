@@ -51,7 +51,7 @@ Outros parâmetros dos serviços de Geocodificação e de Rotas, os quais não f
 
 ## Envio da solução
 
-O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação.
+O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação incluindo seu nome completo para identificação.
 
 O objetivo deste teste é avaliar como você irá considerar questões como arquitetura e design de software, modelagem e aplicação de técnicas e conceitos de programação, e não simplesmente resolver o problema proposto, visto que o mesmo não oferece dificuldades reais para implementação.
 
