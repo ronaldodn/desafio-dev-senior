@@ -47,11 +47,13 @@ Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar 
 
 Você tem a <b>liberdade de escolher e definir</b> sobre a linguagem de programação, frameworks, design e arquitetura a ser adotada. O único requisito é a disponibilização deste componente para a utilização em outro projeto qualquer (independente de linguagem de programação / plataforma / ambiente).
 
-Outros parâmetros dos serviços de Geocodificação e de Rotas, os quais não foram mencionados, não são relevantes para essa solução, sendo assim, você tem a liberdade de definí-los como preferir.
+Outros parâmetros dos serviços de Geocodificação e de Rotas, os quais não foram mencionados, não são relevantes para essa solução, sendo assim, você tem a liberdade de defini-los como preferir.
+
+## Envio da solução
 
 O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação.
 
-Apesar do nome "desafio", o objetivo deste teste é avaliar como você desenvolvedor irá considerar questões como arquitetura e design de software, modelagem e aplicação de técnicas e conceitos de programação, e não simplesmente resolver o problema proposto, visto que o mesmo não oferece dificuldades para implementação.
+O objetivo deste teste é avaliar como você irá considerar questões como arquitetura e design de software, modelagem e aplicação de técnicas e conceitos de programação, e não simplesmente resolver o problema proposto, visto que o mesmo não oferece dificuldades reais para implementação.
 
 Qualquer dúvida, você pode enviar um e-mail para webservices@maplink.com.br.
 
