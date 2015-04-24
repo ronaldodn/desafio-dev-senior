@@ -55,7 +55,7 @@ O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub
 
 O objetivo deste teste é avaliar como você irá considerar questões como arquitetura e design de software, modelagem e aplicação de técnicas e conceitos de programação, e não simplesmente resolver o problema proposto, visto que o mesmo não oferece dificuldades reais para implementação.
 
-Qualquer dúvida, você pode enviar um e-mail para webservices@maplink.com.br.
+Qualquer dúvida, você pode enviar um e-mail para rhti@maplink.com.br.
 
 Bom desafio!
 
