@@ -43,7 +43,7 @@ Você encontrará <b>detalhes de uso</b> nestes endereços:
 * <a href="http://dev.maplink.com.br/webservices/addressfinder/" target="_blank">Geocodificação - dev.maplink.com.br/webservices/addressfinder</a>
 * <a href="http://dev.maplink.com.br/webservices/rotas/" target="_blank">Roteirização - dev.maplink.com.br/webservices/rotas</a>
 
-Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso. Você deve utilizar a seguinte: <b>c13iyCvmcC9mzwkLd0LCbmYC5mUF5m2jNGNtNGt6NmK6NJK=</b>
+Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso fornecida junto ao email.
 
 Você tem a <b>liberdade de escolher e definir</b> sobre a linguagem de programação, frameworks, design e arquitetura a ser adotada. O único requisito é a disponibilização deste componente para a utilização em outro projeto qualquer (independente de linguagem de programação / plataforma / ambiente).
 
