@@ -1,0 +1,11 @@
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Application.MainContext.RouteServices.dll
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Application.MainContext.RouteServices.pdb
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.DistributedServices.ServiceProxies.dll
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.DistributedServices.ServiceProxies.pdb
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\obj\Debug\DS.Application.MainContext.RouteServices.csprojResolveAssemblyReference.cache
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\obj\Debug\DS.Application.MainContext.RouteServices.dll
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\obj\Debug\DS.Application.MainContext.RouteServices.pdb
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Infrastructure.Crosscutting.dll
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Infrastructure.Crosscutting.pdb
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Domain.MainContext.dll
+C:\Users\ronaldo\Desktop\DS\DS.Application.MainContext.RouteServices\bin\Debug\DS.Domain.MainContext.pdb

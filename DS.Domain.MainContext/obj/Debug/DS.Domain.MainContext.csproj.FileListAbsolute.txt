@@ -1,0 +1,5 @@
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.Domain.MainContext\bin\Debug\DS.Domain.MainContext.dll
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.Domain.MainContext\bin\Debug\DS.Domain.MainContext.pdb
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.Domain.MainContext\obj\Debug\DS.Domain.MainContext.csprojResolveAssemblyReference.cache
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.Domain.MainContext\obj\Debug\DS.Domain.MainContext.dll
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.Domain.MainContext\obj\Debug\DS.Domain.MainContext.pdb

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetRoute">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="routeParameterRequest" type="tns:RouteServiceParameterRequestDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="RouteServiceParameterRequestDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="originalRoute" type="tns:RouteServiceParameterDTO" />
+      <xs:element minOccurs="0" maxOccurs="1" name="destinationRoute" type="tns:RouteServiceParameterDTO" />
+      <xs:element minOccurs="1" maxOccurs="1" name="routeType" type="tns:RouteType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RouteServiceParameterDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="StreetAvenueName" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Number" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="City" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="State" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="x" type="xs:double" />
+      <xs:element minOccurs="1" maxOccurs="1" name="y" type="xs:double" />
+      <xs:element minOccurs="0" maxOccurs="1" name="RouteServiceResult" type="tns:RouteServiceResultDTO" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Error" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RouteServiceResultDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="TotalTime" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="TotalDistance" type="xs:double" />
+      <xs:element minOccurs="1" maxOccurs="1" name="TotalFuelCost" type="xs:double" />
+      <xs:element minOccurs="1" maxOccurs="1" name="TotalTollFeeCost" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="RouteType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="FastestRoute" />
+      <xs:enumeration value="RouteAvoidingTraffic" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="GetRouteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetRouteResult" type="tns:RouteServiceResultDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+Solução criada baseada no modelo de Domain Driven Design(DDD) para resolução de problemas com modelos e domínios
+complexos. Caberia ainda melhorias no código (tentei desenvolver o código mais limpo possível - Clean Coding), porém 
+não queria perder muito tempo no desenvolvimento do teste. Solução desenvolvida com visual studio 2013.
+
+Qualquer dúvida estou a disposição.
+
+Obrigado,
+
+Ronaldo das Neves
+ronaldodn@hotmail.com

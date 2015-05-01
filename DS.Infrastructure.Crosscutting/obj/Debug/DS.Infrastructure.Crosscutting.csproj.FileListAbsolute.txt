@@ -1,0 +1,5 @@
+C:\Users\ronaldo\Desktop\DS\DS.Infrastructure.Crosscutting\bin\Debug\DS.Infrastructure.Crosscutting.dll
+C:\Users\ronaldo\Desktop\DS\DS.Infrastructure.Crosscutting\bin\Debug\DS.Infrastructure.Crosscutting.pdb
+C:\Users\ronaldo\Desktop\DS\DS.Infrastructure.Crosscutting\obj\Debug\DS.Infrastructure.Crosscutting.csprojResolveAssemblyReference.cache
+C:\Users\ronaldo\Desktop\DS\DS.Infrastructure.Crosscutting\obj\Debug\DS.Infrastructure.Crosscutting.dll
+C:\Users\ronaldo\Desktop\DS\DS.Infrastructure.Crosscutting\obj\Debug\DS.Infrastructure.Crosscutting.pdb

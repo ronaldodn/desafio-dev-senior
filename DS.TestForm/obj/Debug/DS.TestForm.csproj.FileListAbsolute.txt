@@ -1,0 +1,9 @@
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\bin\Debug\DS.TestForm.exe.config
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\bin\Debug\DS.TestForm.exe
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\bin\Debug\DS.TestForm.pdb
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.csprojResolveAssemblyReference.cache
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.frmTestService.resources
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.Properties.Resources.resources
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.csproj.GenerateResource.Cache
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.exe
+C:\Users\ronaldo\Desktop\DS\DS.TestForm\obj\Debug\DS.TestForm.pdb

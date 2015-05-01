@@ -1,0 +1,7 @@
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\bin\Debug\DS.DistributedServices.Seekwork.dll
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\bin\Debug\DS.DistributedServices.Seekwork.pdb
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\bin\Debug\DS.Infrastructure.Crosscutting.dll
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\bin\Debug\DS.Infrastructure.Crosscutting.pdb
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\obj\Debug\DS.DistributedServices.Seekwork.csprojResolveAssemblyReference.cache
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\obj\Debug\DS.DistributedServices.Seekwork.dll
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.Seekwork\obj\Debug\DS.DistributedServices.Seekwork.pdb

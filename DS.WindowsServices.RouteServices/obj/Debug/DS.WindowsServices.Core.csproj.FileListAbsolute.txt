@@ -1,0 +1,2 @@
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.WindowsServices.Core\bin\Debug\DS.WindowsServices.Core.exe.config
+C:\Users\ronaldo\Desktop\DS\DS.WindowsServices.Core\DS.WindowsServices.Core\bin\Debug\DS.WindowsServices.RouteServices.exe.config

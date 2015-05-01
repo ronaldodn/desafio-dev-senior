@@ -1,0 +1,5 @@
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.ServiceProxies\bin\Debug\DS.DistributedServices.ServiceProxies.dll.config
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.ServiceProxies\bin\Debug\DS.DistributedServices.ServiceProxies.dll
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.ServiceProxies\bin\Debug\DS.DistributedServices.ServiceProxies.pdb
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.ServiceProxies\obj\Debug\DS.DistributedServices.ServiceProxies.dll
+C:\Users\ronaldo\Desktop\DS\DS.DistributedServices.ServiceProxies\obj\Debug\DS.DistributedServices.ServiceProxies.pdb
